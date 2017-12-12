@@ -1,0 +1,28 @@
+html { 
+  background: url("http://s3.amazonaws.com/hrnwp/wp-content/uploads/2016/11/rain-980076_960_720.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#temp{
+    font-size:40px;
+    font-family:sans-serif;
+    color:white;
+  }
+#hum{
+    font-size:40px;
+    font-family:sans-serif;
+    color:white;
+  }
+#wind{
+    font-size:40px;
+    font-family:sans-serif;
+    color:white;
+  }
+
+
+.jumbotron {
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(200, 54, 54, 0.0); 
+}
